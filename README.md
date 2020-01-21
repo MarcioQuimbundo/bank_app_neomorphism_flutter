@@ -1,16 +1,9 @@
-# bank_app_neomorphism_flutter
+# Bank app concept in a neomorphism style. Made with Flutter
 
-A new Flutter project.
+<img src="https://cdn.dribbble.com/users/2049996/screenshots/9158186/media/b981805434cc8d9f72bbb527cb61ec6c.png">
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Original design prototype in Dribble by Mathis Freudenberger
+https://dribbble.com/mathisfr_design
+ 
+### Show some :heart: and star the repo to support the project or :smile:[Follow Me](https://github.com/marcioquimbundo).Thanks!
+[![GitHub stars](https://img.shields.io/github/stars/marcioquimbundo/flutter_card_wallet.svg?style=social&label=Star)](https://github.com/MarcioQuimbundo/flutter_card_wallet) [![GitHub forks](https://img.shields.io/github/forks/marcioquimbundo/flutter_card_wallet.svg?style=social&label=Fork)](https://github.com/MarcioQuimbundo/flutter_card_wallet/fork) [![GitHub watchers](https://img.shields.io/github/watchers/marcioquimbundo/flutter_card_wallet.svg?style=social&label=Watch)](https://github.com/MarcioQuimbundo/flutter_card_wallet) [![GitHub followers](https://img.shields.io/github/followers/marcioquimbundo.svg?style=social&label=Follow)](https://github.com/MarcioQuimbundo/)  
