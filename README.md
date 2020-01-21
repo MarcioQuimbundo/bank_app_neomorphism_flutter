@@ -3,7 +3,7 @@
 <img src="https://cdn.dribbble.com/users/2049996/screenshots/9158186/media/b981805434cc8d9f72bbb527cb61ec6c.png">
 
 ## ScreenShots:
-<img  height="480px" style="margin-right:10px;" src="screenshots/1.png">&nbsp;&nbsp;<img src="screenshots/2.png">
+<img  height="480px" style="margin-right:10px;" src="screenshots/1.png">&nbsp;&nbsp;<img height="480px" style="margin-right:10px;"  src="screenshots/2.png">
 
 ## Original design prototype in Dribble by Mathis Freudenberger
 https://dribbble.com/mathisfr_design
