@@ -67,9 +67,11 @@ packages:
   custom_switch:
     dependency: "direct main"
     description:
-      name: custom_switch
-      url: "https://pub.dartlang.org"
-    source: hosted
+      path: "."
+      ref: HEAD
+      resolved-ref: "306daccfeeb3c05197647c073bd9b01cb8f7be1a"
+      url: "https://github.com/MarcioQuimbundo/custom_switch_flutter.git"
+    source: git
     version: "0.0.1"
   flutter:
     dependency: "direct main"

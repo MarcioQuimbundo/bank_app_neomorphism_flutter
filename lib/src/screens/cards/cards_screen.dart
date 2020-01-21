@@ -21,7 +21,7 @@ class _CardsScreenState extends State<CardsScreen> {
         body: SafeArea(
           child: SingleChildScrollView(
             child: Container(
-              height: MediaQuery.of(context).size.height,
+                height: MediaQuery.of(context).size.height,
                 margin: EdgeInsets.symmetric(
                     horizontal: ScreenUtil().setWidth(120)),
                 child: Column(

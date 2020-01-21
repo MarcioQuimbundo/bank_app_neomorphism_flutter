@@ -25,7 +25,9 @@ dependencies:
   cupertino_icons: ^0.1.2
   flutter_screenutil: ^1.0.2
   font_awesome_flutter: ^8.5.0
-  custom_switch: ^0.0.1
+  custom_switch: 
+    git: 
+      url: https://github.com/MarcioQuimbundo/custom_switch_flutter.git
 
 dev_dependencies:
   flutter_test:
